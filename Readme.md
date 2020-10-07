@@ -10,13 +10,13 @@ header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhf{}
-    \rhead{Einführung in die Programmierung und Programmiersprachen}
-    \lhead{Übungsaufgaben}
+    \rhead{OOP WS 2020/21}
+    \lhead{U01 | Erste Schritte mit Bouncer}
     \cfoot{\includegraphics[height=2cm]{docs/footer.png}}
     \fancypagestyle{plain}{
       \fancyhf{}
-      \rhead{Einführung in die Programmierung und Programmiersprachen}
-      \lhead{Übungsaufgaben}
+      \rhead{OOP WS 2020/21}
+      \lhead{U01 | Erste Schritte mit Bouncer}
       \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
 ---
 
@@ -79,9 +79,8 @@ Bouncers Aufgabe ist es die komplette Straße zu überprüfen und alle
 zerstörten Stellen auszubessern. Am Ende sollen alle Felder der Straße
 grün eingefärbt sein:
 
-![](docs/map_street.png)
-![](docs/street_complete.png)
-<div class="img-label">Ausgangsituation mit Schlaglöchern (oben) und reparierter Straße (unten).</div>
+![Ausgangsituation mit Schlaglöchern](docs/map_street.png)
+![Reparierte Straße](docs/street_complete.png)
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0,14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.
 
@@ -123,10 +122,9 @@ zu streichen. Dazu muss er den Raum betreten und dort alle Felder rot
 anmalen. Der Raum ist durch gesperrte Felder von der restlichen Karte
 abgetrennt. Bouncer startet zwei Felder vor der *Tür*.
 
-![](docs/map_painter.png)
-![](docs/painter_finished.png)
+![Bouncers steht vor dem Raum, den er streichen sol.](docs/map_painter.png)
+![Nach Ablauf des Programms sollen alle Felder im Raum rot gestrichen sein.](docs/painter_finished.png)
 
-<div class="img-label">Bouncers steht vor dem Raum, den er streichen soll (oben). Nach Ablauf des Programms sollen alle Felder im Raum rot gestrichen sein (unten)</div>
 
 *Benutzen Sie die Karte **Painter** um die korrekte Welt zu laden*. Ihr Programm sollte jedoch allgemein genug verfasst sein, um auch andere Räume verabeiten zu können. Sie können die Allgemeingültigkeit Ihres Programmes mit der Karte **Painter_large** testen. Es gelten folgende Annahmen:
 
