@@ -40,7 +40,7 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 Bouncers Welt sieht in dieser Aufgabe wie folgt aus:
 
 <p align="center">
-<img src="docs/map_climbing.png" style="width:40%" />
+<img src="docs/map_climbing.png" width="500" />
 </p>
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder
