@@ -39,9 +39,7 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 
 Bouncers Welt sieht in dieser Aufgabe wie folgt aus:
 
-<p align="center">
 ![Bouncer steht vor dem Hindernis.](docs/map_climbing.png)
-</p>
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder
 hohes Hindernis beeinhaltet. Bouncer soll bis zu diesem Hindernis
