@@ -40,10 +40,8 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 Bouncers Welt sieht in dieser Aufgabe wie folgt aus:
 
 <p align="center">
-<img src="docs/map_climbing.png" style="width: 80mm"/>
+<img src="docs/map_climbing.png" style="width: 80mm" alt="Bouncer steht vor dem Hindernis." />
 </p>
-
-![Bouncers Welt in der ersten Aufgabe](docs/map_climbing.png)
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder
 hohes Hindernis beeinhaltet. Bouncer soll bis zu diesem Hindernis
@@ -84,8 +82,10 @@ Bouncers Aufgabe ist es die komplette Straße zu überprüfen und alle
 zerstörten Stellen auszubessern. Am Ende sollen alle Felder der Straße
 grün eingefärbt sein:
 
-![Ausgangsituation mit Schlaglöchern](docs/map_street.png)
-![Reparierte Straße](docs/street_complete.png)
+<p align="center">
+<img src="docs/map_street.png" style="width: 80mm; display:inline-block" alt="Bouncer steht am Start der kaputten Straße." />
+<img src="docs/street_complete.png" style="width: 80mm; display:inline-block" alt="Bouncer steht am Ende der reparierten Straße." />
+</p>
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0,14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.
 
@@ -127,8 +127,10 @@ zu streichen. Dazu muss er den Raum betreten und dort alle Felder rot
 anmalen. Der Raum ist durch gesperrte Felder von der restlichen Karte
 abgetrennt. Bouncer startet zwei Felder vor der *Tür*.
 
-![Bouncers steht vor dem Raum, den er streichen sol.](docs/map_painter.png)
-![Nach Ablauf des Programms sollen alle Felder im Raum rot gestrichen sein.](docs/painter_finished.png)
+<p align="center">
+<img src="docs/map_painter.png" style="width: 80mm; display:inline-block" alt="Bouncers steht vor dem Raum, den er streichen soll."/>
+<img src="docs/painter_finished.png" style="width: 80mm; display:inline-block" alt="Nach Ablauf des Programms sollen alle Felder im Raum rot gestrichen sein." />
+</p>
 
 
 *Benutzen Sie die Karte **Painter** um die korrekte Welt zu laden*. Ihr Programm sollte jedoch allgemein genug verfasst sein, um auch andere Räume verabeiten zu können. Sie können die Allgemeingültigkeit Ihres Programmes mit der Karte **Painter_large** testen. Es gelten folgende Annahmen:
