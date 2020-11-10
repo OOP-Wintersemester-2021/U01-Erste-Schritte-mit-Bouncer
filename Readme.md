@@ -82,6 +82,9 @@ grün eingefärbt sein:
 
 ![Bouncer steht auf dem ersten Feld der kaputten Straße.](docs/map_street.png){ width=50% }
 ![Bouncer steht auf dem letzten Feld der reparierten Straße](docs/street_complete.png){ width=50% }
+\begin{figure}[!h]
+\caption{Links: Bouncer steht auf dem ersten Feld der kaputten Straße. Rechts: Bouncer steht auf dem letzten Feld der reparierten Straße.}
+\end{figure}
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0,14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.
 
@@ -123,14 +126,11 @@ zu streichen. Dazu muss er den Raum betreten und dort alle Felder rot
 anmalen. Der Raum ist durch gesperrte Felder von der restlichen Karte
 abgetrennt. Bouncer startet zwei Felder vor der *Tür*.
 
-<p align="center">
-<img src="docs/map_painter.png" width="400" />
-<img src="docs/painter_finished.png" width="400" />
-</p>
-
-
 ![Bouncer steht vor dem nicht-gestrichenen Raum.](docs/map_painter.png){ width=50% }
 ![Bouncer steht im vollständig gestrichenen Raum.](docs/painter_finished.png){ width=50% }
+\begin{figure}[!h]
+\caption{Links: Bouncer steht vor dem nicht-gestrichenen Raum.. Rechts: Bouncer steht im vollständig gestrichenen Raum.}
+\end{figure}
 
 *Benutzen Sie die Karte **Painter** um die korrekte Welt zu laden*. Ihr Programm sollte jedoch allgemein genug verfasst sein, um auch andere Räume verabeiten zu können. Sie können die Allgemeingültigkeit Ihres Programmes mit der Karte **Painter_large** testen. Es gelten folgende Annahmen:
 
