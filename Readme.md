@@ -39,7 +39,7 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 
 Bouncers Welt sieht in dieser Aufgabe wie folgt aus:
 
-![Bouncer steht vor dem Hindernis.](docs/map_climbing.png)
+![Bouncer steht vor dem Hindernis.](docs/map_climbing.png){ width=50% }
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder
 hohes Hindernis beeinhaltet. Bouncer soll bis zu diesem Hindernis
@@ -80,10 +80,8 @@ Bouncers Aufgabe ist es die komplette Straße zu überprüfen und alle
 zerstörten Stellen auszubessern. Am Ende sollen alle Felder der Straße
 grün eingefärbt sein:
 
-<p align="center">
-<img src="docs/map_street.png" width="400" />
-<img src="docs/street_complete.png" width="400" />
-</p>
+![Bouncer steht auf dem ersten Feld der kaputten Straße.](docs/map_street.png){ width=50% }
+![Bouncer steht auf dem letzten Feld der reparierten Straße](docs/street_complete.png){ width=50% }
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0,14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.
 
@@ -130,6 +128,9 @@ abgetrennt. Bouncer startet zwei Felder vor der *Tür*.
 <img src="docs/painter_finished.png" width="400" />
 </p>
 
+
+![Bouncer steht vor dem nicht-gestrichenen Raum.](docs/map_painter.png){ width=50% }
+![Bouncer steht im vollständig gestrichenen Raum.](docs/painter_finished.png){ width=50% }
 
 *Benutzen Sie die Karte **Painter** um die korrekte Welt zu laden*. Ihr Programm sollte jedoch allgemein genug verfasst sein, um auch andere Räume verabeiten zu können. Sie können die Allgemeingültigkeit Ihres Programmes mit der Karte **Painter_large** testen. Es gelten folgende Annahmen:
 
