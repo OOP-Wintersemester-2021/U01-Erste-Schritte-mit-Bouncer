@@ -40,7 +40,7 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 Bouncers Welt sieht in dieser Aufgabe wie folgt aus:
 
 <p align="center">
-<img src="docs/map_climbing.png" style="width:40%" alt="Bouncer steht vor dem Hindernis." />
+<img src="docs/map_climbing.png" style="width:40%" />
 </p>
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder
@@ -83,8 +83,8 @@ zerstörten Stellen auszubessern. Am Ende sollen alle Felder der Straße
 grün eingefärbt sein:
 
 <p align="center">
-<img src="docs/map_street.png" style="width:40%" alt="Bouncer steht am Start der kaputten Straße." />
-<img src="docs/street_complete.png" style="width:40%" alt="Bouncer steht am Ende der reparierten Straße." />
+<img src="docs/map_street.png" style="width:40%" />
+<img src="docs/street_complete.png" style="width:40%" />
 </p>
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0,14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.
@@ -128,8 +128,8 @@ anmalen. Der Raum ist durch gesperrte Felder von der restlichen Karte
 abgetrennt. Bouncer startet zwei Felder vor der *Tür*.
 
 <p align="center">
-<img src="docs/map_painter.png" style="width:40%" alt="Bouncers steht vor dem Raum, den er streichen soll." />
-<img src="docs/painter_finished.png" style="width:40%" alt="Nach Ablauf des Programms sollen alle Felder im Raum rot gestrichen sein." />
+<img src="docs/map_painter.png" style="width:40%" />
+<img src="docs/painter_finished.png" style="width:40%" />
 </p>
 
 
