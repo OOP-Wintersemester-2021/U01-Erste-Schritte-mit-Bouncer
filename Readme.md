@@ -31,7 +31,7 @@ Bouncer steht auf einer grünen Straße mit einigen Schlaglöchern (rot). Bounce
 
 | Bouncer steht auf dem ersten Feld der kaputten Straße. | Bouncer steht auf dem letzten Feld der reparierten Straße |
 |:------:|:------:|
-| [Bouncer steht auf dem ersten Feld der kaputten Straße.](docs/map_street.png) | ![Bouncer steht auf dem letzten Feld der reparierten Straße](docs/street_complete.png) |
+| ![Bouncer steht auf dem ersten Feld der kaputten Straße.](docs/map_street.png) | ![Bouncer steht auf dem letzten Feld der reparierten Straße](docs/street_complete.png) |
 
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0, 14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.  
