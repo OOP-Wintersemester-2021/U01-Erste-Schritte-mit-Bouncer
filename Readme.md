@@ -6,7 +6,7 @@
 - [Informationen zum Im- und Export von Projekten](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675&chapterid=51551)  
 - [Bouncer](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480680/)  
 
-## **Bouncer und das erste Hindernis**  
+## Bouncer und das erste Hindernis
 
 Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere Kartenrand stellt den Boden der Welt da, der obere ist die Decke. In der Welt gibt es keine Schwerkraft, d.h. Bouncer kann jedes freie Feld betreten und dazu auch an der *Wand hoch laufen*.  
 
