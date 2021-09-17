@@ -12,7 +12,7 @@ Bouncers Welt ist 2-dimensional und wir betrachten sie von der Seite. Der untere
 
 | Bouncers Welt sieht so aus | 
 |:------:| 
-| ![Bouncer steht vor dem Hindernis.](docs/map_climbing.png) |  
+| ![Bouncer steht vor dem Hindernis.](./docs/map_climbing.png) |  
 
 Bouncer steht in einer leeren Welt, die außer ihm nur ein zwei Felder hohes Hindernis beeinhaltet. Bouncer soll bis zu diesem Hindernis laufen, über die gesperrten Felder hinüber klettern und auf der gegenüberliegenden Seite bis zur Wand laufen um dort stehenzubleiben. *Benutzen Sie die Karte **Obstacles** um die korrekte Welt zu laden (Siehe dazu im Handout zu Bouncer: `loadMap()` ).*  Dieses Beispiel ist einfach und Sie können auf die folgenden Annahmen bauen: Bouncer startet drei Felder vor dem Hindernis auf dessen linken Seite. Er schaut zu Beginn nach Osten, Die Welt sieht immer exakt so aus wie in der Abbildung dargestellt, d.h. das Hindernis ist gleich hoch und immer an der gleichen Position.  
 
@@ -31,7 +31,7 @@ Bouncer steht auf einer grünen Straße mit einigen Schlaglöchern (rot). Bounce
 
 | Bouncer steht auf dem ersten Feld der kaputten Straße. | Bouncer steht auf dem letzten Feld der reparierten Straße |
 |:------:|:------:|
-| ![Bouncer steht auf dem ersten Feld der kaputten Straße.](docs/map_street.png) | ![Bouncer steht auf dem letzten Feld der reparierten Straße](docs/street_complete.png) |
+| ![Bouncer steht auf dem ersten Feld der kaputten Straße.](./docs/map_street.png) | ![Bouncer steht auf dem letzten Feld der reparierten Straße](./docs/street_complete.png) |
 
 
 Die Ausgangsbedingung für diese Aufgabe ist wie folgt: Bouncer steht am unteren Kartenrand auf dem ersten Feld (0, 14) der Straße und schaut nach Osten. Die Straße führt bis zur gegenüberliegenden Wand und beeinhaltet verschiedene Schlaglöcher.  
@@ -66,7 +66,7 @@ Bouncers Aufgabe in diesem Programm ist es, einen Raum komplett in rot zu streic
 
 | Bouncer steht vor dem nicht-gestrichenen Raum. | Bouncer steht im vollständig gestrichenen Raum. |
 |:------:|:------:|
-| ![Bouncer steht vor dem nicht-gestrichenen Raum.](docs/map_painter.png) | ![Bouncer steht im vollständig gestrichenen Raum.](docs/painter_finished.png) |
+| ![Bouncer steht vor dem nicht-gestrichenen Raum.](./docs/map_painter.png) | ![Bouncer steht im vollständig gestrichenen Raum.](./docs/painter_finished.png) |
 
 *Benutzen Sie die Karte **Painter** um die korrekte Welt zu laden*. Ihr Programm sollte jedoch allgemein genug verfasst sein, um auch andere Räume verabeiten zu können. Sie können die Allgemeingültigkeit Ihres Programmes mit der Karte **Painter_large** testen. 
 
